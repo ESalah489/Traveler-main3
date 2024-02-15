@@ -164,7 +164,7 @@ const Footer = () => {
             <div className="servicesCatalog">
                 <div className="margin1">
                     <div className="title">
-                        <h2>Service Catalog</h2>
+                        <h2 className="">Service Catalog</h2>
                     </div>
                     <p className="develop">© 2023&nbsp;Lorem ipsumLorem ipsumLorem ipsumLorem ipsumLorem ipsum</p>
                 </div>

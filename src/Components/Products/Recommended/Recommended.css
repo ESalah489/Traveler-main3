@@ -1,0 +1,33 @@
+.reco-container{
+    width: 100%;
+    margin: auto;
+}
+.recommended-flex{
+    display: flex;
+    margin-left: 20px;
+}
+.recommended-title{
+    margin-left: 20px;
+    font-size: 25px;
+}
+.btns{
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    margin-right: 6px;
+    background: transparent;
+    border: 1px solid #000;
+    border-radius: 5px;
+    color: #323232;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    outline: none;
+}
+
+.btns:hover {
+    background-color: #fff;
+    color: rgb(0, 0, 255);
+    transition: 0.3s ease-in-out;
+    transform: translateY(-3px);
+    transform: scale(3px);
+}
